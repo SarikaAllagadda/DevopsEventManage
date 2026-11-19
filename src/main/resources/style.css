@@ -1,0 +1,32 @@
+
+body {
+    background-color: lightblue;
+    text-align: center;
+}
+
+h1 {
+    background-color: navy;
+    color: white;
+    padding: 20px;
+}
+
+h2 {
+    color: navy;
+}
+
+.event {
+    background-color: white;
+    margin: 20px;
+    padding: 15px;
+    border: 1px solid black;
+}
+
+h3 {
+    color: blue;
+}
+
+footer {
+    background-color: navy;
+    color: white;
+    padding: 10px;
+}
